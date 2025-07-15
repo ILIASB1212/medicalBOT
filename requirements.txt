@@ -7,5 +7,6 @@ flask
 os
 logging
 pathlib
+sentence-transformers
 python-dotenv
 -e .
