@@ -3,3 +3,9 @@ langchain_pinecone
 langchain_openai
 langchain_community
 pypdf
+flask
+os
+logging
+pathlib
+python-dotenv
+-e .
