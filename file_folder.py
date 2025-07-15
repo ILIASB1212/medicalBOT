@@ -13,8 +13,9 @@ list_of_files = [
     ".env",
     "setup.py",
     "store_index.py",
-    "backend",
-    "templates/ui.html"
+    "style",
+    "templates/ui.html",
+    "app.py",
 ]
 
 for filepath in list_of_files:
